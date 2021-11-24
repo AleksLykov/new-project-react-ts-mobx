@@ -1,8 +1,8 @@
-# The base structure of the project.
+## The base structure of the project.
 
-## Composition: React (hooks), Typescript, MobX (with decorators), Sass, moment.js and yup-validation
+### Composition: React (hooks), Typescript, MobX (with decorators), Sass, moment.js and yup-validation
 
-## Folder structure
+### Folder structure
 
 - **/api** - сontains endpoints grouped by category
 - **/components** - сontains component files. The application pages are collected from them
